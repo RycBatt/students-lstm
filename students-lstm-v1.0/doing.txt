@@ -1,0 +1,12 @@
+v Revisão das funções e camadas do modelo
+v Implementação Leave One Out
+v Cross-validatio com N-fold
+v Um modelo para cada semestre
+grafico semana por auc
+Implementação de adaboost para comparação
+
+np.array(yhat).squeeze()[:, 1])
+
+rodar o sanity checking
+
+https://stackoverflow.com/questions/57756804/roc-curve-with-leave-one-out-cross-validation-in-sklearn
