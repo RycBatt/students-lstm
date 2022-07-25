@@ -1,0 +1,4 @@
+Jogar para semana 15 as outras semanas;
+Fazer 5 graficos de maneiras diferentes:
+  - Cada uma das bases separadas (Graficos para cada um dos semestres) √
+  - Grafico das semanas em conjuntos √

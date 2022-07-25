@@ -1,0 +1,6 @@
+Dar uma olhada em F1 Measure; √
+Tensorflow Dashboard; √
+Gerar grafico dos valores da curva ROC; √
+Transformar acuracia para curva ROC; √
+Acuracia deve ser substituida = Area sobre a curva ROC (Em cada uma das semanas); √
+Ajustado o formato de dados passado para a lstm √
