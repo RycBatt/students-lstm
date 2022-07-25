@@ -1,0 +1,6 @@
+Revisão das funções e camadas do modelo
+Implementação Leave One Out
+Cross-validatio com N-fold
+Um modelo para cada semestre
+grafico semana por auc
+Implementação de adaboost para comparação

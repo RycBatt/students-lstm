@@ -1,0 +1,4 @@
+Alterado para suportar valores variáveis de semanas
+Alterado para utilizar media e mediana
+Correção de erros:
+  Inplace no fillna não estava como true, o que gerava varios valores NaN que bugavam o tensorflow

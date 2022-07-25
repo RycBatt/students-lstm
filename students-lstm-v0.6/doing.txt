@@ -1,0 +1,4 @@
+Balenceamento dos dados:
+  - População dos dados, SMOTE √
+Reorganização dos códigos √
+Geração de um relatório único √

@@ -1,0 +1,10 @@
+Alterado o formato de pandas para numpy array para ver se muda a lstm
+  - Sem alterações consideráveis
+ta assim: [amostra1, amostra2, amostra3, ...]
+deixar assim: amostra1 = [1, 2, 0, 5, 4, 1]
+                amostra2 = [2, 5, 3, 3, 2]
+Adicionado embaralhamento dos dados
+
+
+
+
